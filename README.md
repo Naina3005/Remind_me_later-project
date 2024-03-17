@@ -16,12 +16,18 @@ Scheduled Reminders: Users can schedule reminders for any future date and time, 
 <br><br> 
 
 <h2>Technologies Used</h2> 
-
+ 
 Django: The backend framework used for handling user requests, processing data, and sending emails.
+<br>
 HTML/CSS: Frontend development for creating the user interface and styling.
+<br>
 Bootstrap: Used for responsive design and layout components.
+<br>
+
 SMTP (Simple Mail Transfer Protocol): Used for sending emails to users.
+<br>
 SQLite Database: For storing user data and reminder details.
+<br>
 Setup Instructions
 To set up the "Remind Me Later" project locally, follow these steps:
 
